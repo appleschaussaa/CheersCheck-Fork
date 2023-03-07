@@ -53,8 +53,8 @@ SO THAT I can  I can share with friends and other users who might have similar t
 
 ###  Links 🔗
 
-- Github URL: [https://github.com/mathewsida/CheersCheck](https://github.com/mathewsida/CheersCheck)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github URL: [https://github.com/appleschaussaa/CheersCheck-Fork](https://github.com/appleschaussaa/CheersCheck-Fork))
+- Live Site URL: [https://cryptic-citadel-61449.herokuapp.com/](https://cryptic-citadel-61449.herokuapp.com/))
 
 <br>
 <hr>
